@@ -1,0 +1,16 @@
+/* Global Styles for the Application */
+.App {
+  padding: 20px;
+  background-color: #f8f9fa; /* Light background color */
+  min-height: 100vh; /* Ensure full height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
